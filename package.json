@@ -1,0 +1,25 @@
+{
+  "name": "find-obj-from-prop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaar/find-obj-from-prop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umaar/find-obj-from-prop/issues"
+  },
+  "homepage": "https://github.com/umaar/find-obj-from-prop#readme",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
